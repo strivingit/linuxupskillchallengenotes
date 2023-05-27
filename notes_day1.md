@@ -1,3 +1,4 @@
+# Notes - Day 1
 **Root User**
 * On the note of the root user, it's been awhile since I've ever used a distro that ahd me create a root user and rather a standard user that is part if the group sudo.
 

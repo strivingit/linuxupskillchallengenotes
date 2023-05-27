@@ -1,4 +1,5 @@
-Notes for Day 0
+# Notes - Day 0
+<br> 
 This primarily consists of setting up the VM through a cloud provider or locally. These are some steps I would take post install:
 1. sudo apt-get update
 2. sudo apt-get upgrade
