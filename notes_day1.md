@@ -1,6 +1,6 @@
 # Notes - Day 1
 **Root User**
-* On the note of the root user, it's been awhile since I've ever used a distro that ahd me create a root user and rather a standard user that is part if the group sudo.
+* On the note of the root user, it's been awhile since I've ever used a distro that had me create a root user and rather a standard user that is part if the group sudo.
 
 **Remote Access(SSH)**
 * From my knowledge, the best practice for security is to use key based authentication for SSH. I've always used password based authentication.
