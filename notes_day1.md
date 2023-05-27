@@ -12,3 +12,4 @@
 * According to the Day 1 activity, SSH is already included in WSL.
 * Step 3, I didn't know there was a specific program to copy a public ssh key, ssh-copy-id.
 * In the ssh_config file, I set PasswordAuthentication no to test. I applied the private key in Putty on my Windows host. It worked but noticed a valid user is still required to login. This passwordless login is great to prevent compromise via keylogger.
+* Misc specifics regarding the [~/.ssh/authorized_keys](https://www.howtouselinux.com/post/ssh-authorized_keys-file) file.
