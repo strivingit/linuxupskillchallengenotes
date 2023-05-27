@@ -6,7 +6,7 @@
 * From my knowledge, the best practice for security is to use key based authentication for SSH. I've always used password based authentication.
 [Setting up key based authentication](https://linuxize.com/post/how-to-setup-passwordless-ssh-login/)
 * On my Windows host, I used PuttyGen to generate a 4096 bit key pair. I didn't use step 2 since I generated the key on my Windows host.
-* On step 2, using a passphrase is great for extra security but usually not specified for automation purposes. Since I am just experimenting, I'll not opt to for a passphrase.
+* On step 2, using a passphrase is great for extra security but usually not specified for automation purposes. Since I am just experimenting, I'll not opt for a passphrase.
 * I was wondering how to copy the public key to the authorized_users file but PuttyGen gives you the output to paste.
 * I think I had to install openssh-server on WSL, but I thought to start sshd it would be sshd or openssh-server. It was [sudo service ssh status](https://askubuntu.com/questions/1339980/enable-ssh-in-wsl-system).
 * According to the Day 1 activity, SSH is already included in WSL.
